@@ -1,7 +1,7 @@
 {  
 "12345":{
   "statusMessage" : "SUCCESS",
-  "statusCode" : "200",
+  "statussCode" : "200",
   "added": "hehe"
 }
 
