@@ -1,8 +1,10 @@
 {  
 "12345":{
-  "statussMessage" : "SUCCESS",
-  "statussCode" : "200",
-  "added": "hehe"
+  "timestamp": "2019-10-03T12:14:12.582+0000",
+    "status": 404,
+    "error": "Not Found",
+    "message": "No message available",
+    "path": "/dsr/login/2657845622"
 }
 
 }
